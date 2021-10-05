@@ -1,0 +1,460 @@
+
+Sat Jun 12 17:37:00 2021
+10.28.4.20-1106606
+10.28.4.25-1832716
+10.28.4.31-1334070
+
+Sun Jun 20 16:23:05 2021
+
+Sun Jun 20 16:24:46 2021
+10.28.4.20-1108451
+10.28.4.25-1838582
+10.28.4.31-1336971
+
+Sun Jun 20 16:36:49 2021
+10.28.4.20-1108469
+10.28.4.25-1838582
+10.28.4.31-1336987
+
+Thu Jul  1 17:42:17 2021
+10.28.4.20-
+10.28.4.25-
+
+Thu Jul  1 18:02:15 2021
+10.28.4.20-
+10.28.4.25-
+10.28.4.31-
+
+Thu Jul  1 18:02:41 2021
+10.28.4.20-
+10.28.4.25-
+10.28.4.31-
+
+Thu Jul  1 18:03:23 2021
+10.28.4.20-
+10.28.4.25-
+10.28.4.31-
+
+Sun Aug 22 18:59:16 2021
+
+Sun Aug 22 19:00:48 2021
+10.28.4.20-1130095
+10.28.4.25-1888338
+10.28.4.31-1363925
+
+Sun Aug 22 19:09:55 2021
+10.28.4.20-1130095
+10.28.4.25-1888338
+10.28.4.31-1363925
+
+Sun Aug 22 19:12:13 2021
+10.28.4.20-1130095
+10.28.4.25-1888338
+10.28.4.31-1363925
+
+Sun Aug 22 19:14:46 2021
+10.28.4.20-1130095
+10.28.4.25-1888338
+10.28.4.31-1363925
+
+Sun Aug 22 19:47:16 2021
+
+Sun Aug 22 19:50:41 2021
+
+Sun Aug 22 19:51:18 2021
+10.28.4.20-(None, 0, 0, [ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1130095]>)])
+10.28.4.25-(None, 0, 0, [ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1888380]>)])
+10.28.4.31-(None, 0, 0, [ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1363949]>)])
+
+Sun Aug 22 19:58:14 2021
+10.28.4.20-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1130095]>)]
+10.28.4.25-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1888380]>)]
+10.28.4.31-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1363949]>)]
+
+Sun Aug 22 20:06:42 2021
+
+Sun Aug 22 20:13:05 2021
+10.28.4.20-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1130095]>)]
+10.28.4.25-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1888380]>)]
+10.28.4.31-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1363949]>)]
+
+Sun Aug 22 20:15:01 2021
+10.28.4.20-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1130095]>)]
+10.28.4.25-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1888380]>)]
+10.28.4.31-[ObjectType(ObjectIdentity(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.2.1.43.10.2.1.4.1.1]>), <Counter32 value object, tagSet <TagSet object, tags 64:0:1>, subtypeSpec <ConstraintsIntersection object, consts <ValueRangeConstraint object, consts 0, 4294967295>>, payload [1363949]>)]
+
+Mon Aug 23 17:16:58 2021
+
+Mon Aug 23 17:17:09 2021
+10.28.4.20-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1131312
+10.28.4.25-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1888383
+10.28.4.31-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1364566
+
+Mon Aug 23 17:18:21 2021
+10.28.4.20-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1131312
+10.28.4.25-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1888383
+10.28.4.31-SNMPv2-SMI::mib-2.43.10.2.1.4.1.1 = 1364566
+
+Mon Aug 23 18:06:02 2021
+
+Mon Aug 23 18:06:02 2021
+
+Mon Aug 23 18:06:02 2021
+
+Mon Aug 23 18:06:44 2021
+
+Mon Aug 23 18:06:44 2021
+
+Mon Aug 23 18:06:44 2021
+10.28.4.20-
+10.28.4.25-
+10.28.4.31-
+10.28.4.20-1131312
+10.28.4.25-1888383
+10.28.4.31-1364566
+10.28.4.20 - 1131312
+10.28.4.25 - 1888383
+10.28.4.31 - 1364566
+
+Mon Aug 23 18:14:16 2021
+10.28.4.20 - 1131312
+10.28.4.25 - 1888383
+10.28.4.31 - 1364566
+
+Mon Aug 23 18:15:14 2021
+
+Mon Aug 23 18:15:52 2021
+
+Mon Aug 23 18:17:20 2021
+
+Mon Aug 23 18:19:39 2021
+10.28.4.20 - G
+10.28.4.25 - G
+10.28.4.31 - G
+
+Mon Aug 23 18:20:30 2021
+10.28.4.20 - g
+10.28.4.25 - g
+10.28.4.31 - g
+
+Mon Aug 23 18:23:01 2021
+
+Mon Aug 23 18:23:41 2021
+10.28.4.20 - 1131312
+10.28.4.25 - 1888383
+10.28.4.31 - 1364566
+
+Mon Aug 23 18:23:54 2021
+10.28.4.20 - G
+10.28.4.25 - G
+10.28.4.31 - G
+
+Mon Aug 23 18:25:10 2021
+10.28.4.20 - 1131312
+10.28.4.25 - 1888383
+10.28.4.31 - 1364566
+
+Mon Aug 23 18:25:14 2021
+
+Mon Aug 23 18:28:49 2021
+10.28.4.20 - 1131312
+10.28.4.25 - 1888383
+10.28.4.31 - 1364566
+
+Mon Aug 23 18:28:57 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Mon Aug 23 19:47:41 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - 1364572
+
+Mon Aug 23 19:48:14 2021
+10.28.4.20 - 1131327
+10.28.4.25 - 1888384
+10.28.4.31 - 1364572
+
+Mon Aug 23 19:48:31 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Mon Aug 23 19:59:48 2021
+
+Mon Aug 23 20:00:10 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Mon Aug 23 20:01:53 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Aug 26 09:59:27 2021
+
+Thu Aug 26 10:08:34 2021
+
+Thu Aug 26 10:10:06 2021
+
+Thu Aug 26 10:10:39 2021
+
+Thu Aug 26 10:11:09 2021
+
+Thu Aug 26 10:11:38 2021
+
+Thu Aug 26 10:13:41 2021
+
+Thu Aug 26 10:16:30 2021
+
+Thu Aug 26 10:17:30 2021
+
+Thu Aug 26 10:17:43 2021
+
+Thu Aug 26 10:17:49 2021
+
+Thu Aug 26 10:20:23 2021
+
+Thu Aug 26 10:20:44 2021
+
+Thu Aug 26 10:31:22 2021
+
+Thu Aug 26 10:33:21 2021
+
+Thu Aug 26 10:33:40 2021
+
+Thu Aug 26 10:33:50 2021
+
+Thu Aug 26 10:35:46 2021
+10.28.4.20 - 1135132
+10.28.4.25 - 1888595
+10.28.4.31 - 1365917
+
+Thu Aug 26 10:36:09 2021
+
+Thu Aug 26 10:36:21 2021
+10.28.4.20 - 1135132
+10.28.4.25 - 1888595
+10.28.4.31 - 1365917
+
+Thu Aug 26 10:36:37 2021
+10.28.4.20 - 1135132
+10.28.4.25 - 1888595
+10.28.4.31 - 1365917
+
+Thu Aug 26 10:36:58 2021
+10.28.4.20 - 1135132
+10.28.4.25 - 1888595
+10.28.4.31 - 1365917
+
+Thu Aug 26 10:37:10 2021
+10.28.4.20 - 1135132
+10.28.4.25 - 1888595
+10.28.4.31 - 1365917
+
+Thu Aug 26 10:57:16 2021
+10.28.4.20 - 1135199
+10.28.4.25 - 1888596
+10.28.4.31 - 1365955
+
+Thu Aug 26 10:57:27 2021
+10.28.4.20 - 1135199
+10.28.4.25 - 1888596
+10.28.4.31 - 1365961
+
+Thu Aug 26 10:57:36 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Aug 26 10:58:03 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Aug 26 10:58:32 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Aug 26 10:59:31 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Aug 26 11:00:11 2021
+
+Thu Aug 26 11:18:05 2021
+10.28.4.20 - 1135540
+10.28.4.25 - 1888598
+10.28.4.31 - 1366159
+
+Thu Aug 26 13:16:13 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Fri Aug 27 15:58:26 2021
+
+Fri Aug 27 16:00:42 2021
+
+Fri Aug 27 16:51:24 2021
+
+Fri Aug 27 16:52:45 2021
+
+Fri Aug 27 17:00:37 2021
+
+Fri Aug 27 17:01:10 2021
+
+Fri Aug 27 17:01:33 2021
+
+Fri Aug 27 17:01:55 2021
+
+Fri Aug 27 17:02:25 2021
+
+Fri Aug 27 17:02:52 2021
+
+Fri Aug 27 17:04:09 2021
+
+Fri Aug 27 17:04:15 2021
+
+Fri Aug 27 17:05:08 2021
+
+Fri Aug 27 17:09:51 2021
+
+Fri Aug 27 17:10:10 2021
+
+Fri Aug 27 17:17:19 2021
+
+Fri Aug 27 17:22:00 2021
+
+Fri Aug 27 17:23:14 2021
+
+Fri Aug 27 17:24:29 2021
+
+Fri Aug 27 17:28:48 2021
+
+Fri Aug 27 17:29:21 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - None
+
+Fri Aug 27 17:30:02 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - None
+
+Fri Aug 27 17:30:12 2021
+
+Fri Aug 27 17:33:28 2021
+
+Fri Aug 27 17:33:57 2021
+
+Fri Aug 27 17:34:54 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - None
+
+Fri Aug 27 17:35:40 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - None
+
+Fri Aug 27 17:44:28 2021
+
+Fri Aug 27 17:45:04 2021
+12.3.21.3 - None
+1.2.3.4 - None
+5.6.7.8 - None
+
+Fri Aug 27 17:45:21 2021
+12.3.21.3 - Got SNMP error: No SNMP response received before timeout
+1.2.3.4 - Got SNMP error: No SNMP response received before timeout
+5.6.7.8 - Got SNMP error: No SNMP response received before timeout
+
+Fri Aug 27 17:46:24 2021
+10.28.4.20 - 1137000
+10.28.4.25 - 1888653
+10.28.4.31 - 1366863
+
+Fri Aug 27 17:50:08 2021
+10.28.4.20 - 1137000
+10.28.4.25 - 1888653
+10.28.4.31 - 1366863
+
+Fri Aug 27 17:59:24 2021
+10.28.4.20 - 1137002
+10.28.4.25 - 1888653
+10.28.4.31 - 1366863
+
+Fri Aug 27 18:00:32 2021
+10.28.4.20 - 1137002
+10.28.4.25 - 1888653
+10.28.4.31 - 1366863
+
+Fri Aug 27 18:02:34 2021
+10.28.4.20 - 1137002
+10.28.4.25 - 1888653
+10.28.4.31 - 1366863
+
+Thu Sep  2 11:22:20 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - None
+
+Thu Sep  2 11:23:00 2021
+10.28.4.20 - None
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Sep  2 11:23:21 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Sep  2 11:24:10 2021
+10.28.4.20 - None
+10.28.4.25 - None
+10.28.4.31 - 1370299
+
+Thu Sep  2 11:24:28 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Sep  2 11:24:53 2021
+10.28.4.20 - 1144676
+10.28.4.25 - 1889211
+10.28.4.31 - 1370299
+
+Thu Sep  2 11:29:23 2021
+10.28.4.20 - 1144676
+10.28.4.25 - 1889211
+10.28.4.31 - 1370299
+
+Thu Sep  2 11:29:44 2021
+10.28.4.20 - 1144676
+10.28.4.25 - 1889211
+10.28.4.31 - 1370299
+
+Thu Sep  2 11:30:33 2021
+10.28.4.20 - Got SNMP error: No SNMP response received before timeout
+10.28.4.25 - Got SNMP error: No SNMP response received before timeout
+10.28.4.31 - Got SNMP error: No SNMP response received before timeout
+
+Thu Sep  2 11:31:39 2021
+10.28.4.20 - 1144676
+10.28.4.25 - 1889211
+10.28.4.31 - 1370299
+
+Thu Sep  2 11:45:42 2021
+10.28.4.20 - 1144676
+10.28.4.25 - 1889211
+10.28.4.31 - 1370299
+
+Mon Sep  6 14:14:46 2021
+10.28.4.20 - 1147824
+10.28.4.25 - 1889532
+10.28.4.31 - 1372932
